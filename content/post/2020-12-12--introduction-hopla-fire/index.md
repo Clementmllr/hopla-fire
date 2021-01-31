@@ -68,4 +68,4 @@ Dépenser moins :
 - [Choisir un compte bancaire sans frais](/choisir-la-meilleur-banque)
 - Analyser ses dépenses (en progrès)
 - Choisir une carte de crédit avec de bons avantages (en progrès)
-- Acheter ou louer un appartement / une maison (en progrès)
+- Acheter ou louer un appartement / une maison (en progrès) f
